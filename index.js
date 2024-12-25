@@ -1,0 +1,22 @@
+/* 
+create 
+link js with json
+get input from user 
+store the input in the json file
+
+read    
+read file from fs if yes else pass error
+get the id from user 
+check for the data if yes pass the data else pass error
+
+
+update 
+get the id from user
+check for the data if yes pass else error
+update and store the data
+
+delete 
+get the id from user 
+check if the id is available if yes delete else pass error
+store the data in json
+*/
